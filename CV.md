@@ -8,6 +8,7 @@
 
 5.HTML
 
+```
 <!DOCTYPE html>
 <html lang="ru">
   <head>
@@ -31,8 +32,11 @@
     </ul>
   </body>
 </html>
+```
+
 CSS
 
+```
 body {
   width: 380px;
   margin: 0;
@@ -64,6 +68,8 @@ h1 {
 .underline{
   text-decoration: underline;
 }
+```
+
 6.Courses: HTMLacademy, hexlet.
 
 7.Study in BNTU (Information Technologies and Robotics faculty). Online courses: HTMLacademy, hexlet.
