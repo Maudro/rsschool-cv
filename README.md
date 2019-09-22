@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maudro.github.io/rsschool-cv/cv
